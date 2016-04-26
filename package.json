@@ -1,0 +1,26 @@
+{
+  "name": "gulp-parsergen",
+  "version": "0.0.1",
+  "description": "Gulp wrapper for the parsergen parser generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-cote/gulp-parsergen.git"
+  },
+  "author": "Scott Cote",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scott-cote/gulp-parsergen/issues"
+  },
+ "keywords": [
+  "gulpplugin"
+  ],
+  "homepage": "https://github.com/scott-cote/gulp-parsergen#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
